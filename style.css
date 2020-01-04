@@ -1,0 +1,9 @@
+h1, h2, p, select, table, label, option {
+  font-family: Lato;
+}
+
+#controls {
+  margin-top: 16px;
+  padding: 16px 8px;
+  background: #ccc;
+}
